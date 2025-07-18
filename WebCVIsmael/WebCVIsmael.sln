@@ -5,8 +5,6 @@ VisualStudioVersion = 17.14.36301.6
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebCVIsmael", "WebCVIsmael.csproj", "{E6019A9E-1253-5528-2E56-8215205CDAB6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebCVIsmael.Tests", "..\WebCVIsmael.Tests\WebCVIsmael.Tests.csproj", "{E7628193-FAB8-44E6-90C2-1D2EE12ED0F1}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
